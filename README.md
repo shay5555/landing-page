@@ -1,1 +1,1 @@
-# landing-page
+Image taken from: https://pixabay.com/photos/christmas-motif-christmas-ornament-7651143/
