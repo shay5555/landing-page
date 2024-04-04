@@ -31,6 +31,7 @@ ul {
     justify-content: center;
     color: #F9FAF8;
     gap: 50px;
+    padding-bottom: 75px;
 }
 
 .hero button {
@@ -64,4 +65,42 @@ ul {
 .hero-text p {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: whitesmoke;
+    padding: 60px 0 110px;
+}
+
+.information h3 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    margin-top: 0;
+    margin-bottom: 60px;
+}
+
+.img-placeholder {
+    width: 100px;
+    height: 100px;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+.cards {
+    display: flex;
+    gap: 30px;
+}
+
+.cards > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+    max-width: 150px;
 }
